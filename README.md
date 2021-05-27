@@ -3,12 +3,12 @@
 ![](https://img.shields.io/github/last-commit/felixfilipi/Machine-Learning)
 ![](https://img.shields.io/badge/build-passing-orange)
 ![](https://img.shields.io/github/languages/code-size/felixfilipi/Machine-Learning)
-![](https://img.shields.io/badge/library-pandas-red)
-![](https://img.shields.io/badge/library-matplotlib-red)
-![](https://img.shields.io/badge/library-numpy-red)
-![](https://img.shields.io/badge/library-sklearn-red)
+![](https://img.shields.io/badge/library-Pandas-red)
+![](https://img.shields.io/badge/library-Matplotlib-red)
+![](https://img.shields.io/badge/library-Numpy-red)
+![](https://img.shields.io/badge/library-Sklearn-red)
 
-This repository aims to summarize various private project about computer vision using OpenCV library.
+This repository aims to summarized various machine learning projects that have been worked on during lectures
 
 In this repo, mostly I use some library such as:
 * Pandas
