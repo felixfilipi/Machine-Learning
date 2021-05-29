@@ -1,12 +1,12 @@
 <h1>Machine Learning</h1>
 
 ![](https://img.shields.io/github/last-commit/felixfilipi/Machine-Learning)
-![](https://img.shields.io/badge/build-passing-orange)
+![](https://img.shields.io/badge/build-passing-green)
 ![](https://img.shields.io/github/languages/code-size/felixfilipi/Machine-Learning)
 ![](https://img.shields.io/badge/library-Pandas-red)
-![](https://img.shields.io/badge/library-Matplotlib-red)
 ![](https://img.shields.io/badge/library-Numpy-red)
-![](https://img.shields.io/badge/library-Sklearn-red)
+![](https://img.shields.io/badge/library-Matplotlib-orange)
+![](https://img.shields.io/badge/library-Sklearn-yellow)
 
 This repository aims to summarized various machine learning projects that have been worked on during lectures
 
