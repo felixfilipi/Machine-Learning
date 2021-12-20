@@ -1,0 +1,12 @@
+Department,Status,Age,Salary,Count
+sales,senior,2,4,30
+sales,junior,1,0,40
+sales,junior,2,1,40
+systems,junior,0,4,20
+systems,senior,2,5,5
+systems,junior,1,4,3
+systems,senior,4,5,3
+marketing,senior,3,4,10
+marketing,junior,2,3,4
+secretary,senior,5,2,4
+secretary,junior,1,0,6
